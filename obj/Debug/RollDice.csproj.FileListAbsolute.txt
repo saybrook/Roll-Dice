@@ -1,0 +1,7 @@
+c:\users\shank\dropbox\design and development\csharp\RollDice\RollDice\bin\Debug\RollDice.dll
+c:\users\shank\dropbox\design and development\csharp\RollDice\RollDice\bin\Debug\RollDice.pdb
+c:\users\shank\dropbox\design and development\csharp\RollDice\RollDice\bin\Debug\TerrariaServer.exe
+c:\users\shank\dropbox\design and development\csharp\RollDice\RollDice\bin\Debug\TShockAPI.dll
+c:\users\shank\dropbox\design and development\csharp\RollDice\RollDice\obj\Debug\RollDice.csprojResolveAssemblyReference.cache
+c:\users\shank\dropbox\design and development\csharp\RollDice\RollDice\obj\Debug\RollDice.dll
+c:\users\shank\dropbox\design and development\csharp\RollDice\RollDice\obj\Debug\RollDice.pdb
