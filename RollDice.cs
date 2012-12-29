@@ -7,7 +7,7 @@ using Terraria;
 
 namespace RollDice
 {
-	[APIVersion(1, 11)]
+	[APIVersion(1, 12)]
 	public class RollDice : TerrariaPlugin
 	{
 		public override Version Version
